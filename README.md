@@ -1,4 +1,5 @@
-# v1
+# tg
+
 
 Tools Biasa Yang Di Ciptakan Oleh Script Kiddie
 Dont Not Recode This Tools!!
